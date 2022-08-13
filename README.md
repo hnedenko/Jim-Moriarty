@@ -29,6 +29,8 @@ Should make the final decision in the current situation of the game, using all g
 ### Notifyer
 Visualizes current game state, player cards, board cards, enemies number,  win probability when playing pvp, final win probability.
 
+https://github.com/hnedenko/Jim-Moriarty/blob/main/screen.png
+
 ## Testing
 The program does its job - count win probability - quite well.
 Average analysis time for one situation - 1 sec.
