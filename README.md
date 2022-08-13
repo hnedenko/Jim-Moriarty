@@ -7,6 +7,8 @@ WATCHER -> RECOGNIZER -> PROBABILIST -> DECIDER -> NOTIFYER
 ### Watcher
 Do screenshot
 
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
 ### Recognizer
 Cut screenshot.
 Get player cards, board cards, enemy's card images.
