@@ -7,7 +7,7 @@ WATCHER -> RECOGNIZER -> PROBABILIST -> DECIDER -> NOTIFYER
 ### Watcher
 Do screenshot
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту](https://github.com/hnedenko/Jim-Moriarty/blob/main/a_watcher/screenshot.png)
 
 ### Recognizer
 Cut screenshot.
