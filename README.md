@@ -12,6 +12,8 @@ Do screenshot
 ### Recognizer
 Cut screenshot.
 Get player cards, board cards, enemy's card images.
+![Иллюстрация к проекту](https://github.com/hnedenko/Jim-Moriarty/blob/main/b_recognizer/cards/10_grey.jpg)
+![Иллюстрация к проекту](https://github.com/hnedenko/Jim-Moriarty/blob/main/b_recognizer/cards/K_red.jpg)
 Reading player cards recognize game state.
 Convert player cards, board cards, enemy's card images to digital format.
 
